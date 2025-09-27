@@ -4,3 +4,5 @@ If you'd like to know more about me check out my [personal website](https://asia
 
 ### Other Interests
 Other than programming, I also enjoy playing Rhythm Games such as maimai and Arcaea and I am an officer for a few clubs.
+
+<img width="236" height="236" alt="image" src="https://github.com/user-attachments/assets/2527c778-3ff9-4306-9b67-2c3cd797ae79" />
