@@ -1,5 +1,5 @@
 ## About Me
-Hi! My name is Ethan and I am a full-stack developer who specializes in Django for Web Development. I have experience with C, C++, Python, HTML, JS, CSS, PostgreSQL and I am currently learning Java. My main language is Python.
+Hi! My name is Ethan and I am a full-stack developer who specializes in Django for Web Development. I have experience with C++, Python, HTML, JS, CSS, PostgreSQL, and containerization with Docker and I am currently learning React. My main language is Python.
 If you'd like to know more about me check out my [personal website](https://asiankidtv.altergate.org/)
 
 ### Other Interests
