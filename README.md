@@ -1,8 +1,32 @@
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=Hi!+I'm+Ethan!" alt="Typing SVG" /></a>
+  <img src="./sillyboi.jpg" alt="Profile Image" width="150" height="150" />
+</div>
+
 ## About Me
-Hi! My name is Ethan and I am a full-stack developer who specializes in Django for Web Development. I have experience with C++, Python, HTML, JS, CSS, PostgreSQL, and containerization with Docker and I am currently learning React. My main language is Python.
-If you'd like to know more about me check out my [personal website](https://asiankidtv.altergate.org/)
+<pre>
+Full-stack Web Developer:
+✨ Django
+✨ HTML, CSS
+✨ Typescript
+✨ Postgres
+✨ Docker
+</pre>
 
 ### Other Interests
-Other than programming, I also enjoy competing in Public Forum Debate and DECA, and am a club officer for both. In my free time I enjoy playing Rhythm Games such as maimai and Arcaea along with Roblox games such as Bee Swarm Simulator and Grave/Digger. I have also been playing 2XKO as of late.
+<pre>
+School:
+✨ Public Forum Debate
+✨ DECA (Accounting Applications)
+✨ Chemistry Club
+✨ Student Ambassador
 
-<img width="236" height="236" alt="image" src="https://github.com/user-attachments/assets/2527c778-3ff9-4306-9b67-2c3cd797ae79" />
+Gaming:
+✨ Arcaea
+✨ maimai
+✨ 2XKO
+✨ Roblox
+</pre>
+
+<img alt="Static Badge" src="https://img.shields.io/badge/Leetcode-Profile-orange?style=plastic&logo=leetcode">
+<img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-Website-blue?style=plastic&logo=github">
