@@ -29,5 +29,3 @@ Gaming:
 </pre>
 ![Noi](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXMwdXY2YnEzeDhuZXA0ZGg5eDU1cm9udGxmMHlwbGk2aXlvanUzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nbJp5AssrcJJyrToru/giphy.gif)
 <br>
-<img alt="Static Badge" src="https://img.shields.io/badge/Leetcode-Profile-orange?style=plastic&logo=leetcode">
-<img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-Website-blue?style=plastic&logo=github">
